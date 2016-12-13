@@ -35,7 +35,7 @@ We are creating a database with a single table (syntax_practice) and 8 records. 
 8. Click `OK` to create our database, table, and data!
 
 ## GitHub repo
-1. Create a GitHub repo named “prime-solo-sql”. 
+1. Create a GitHub repo named “prime-solo-sql”.
 2. Create a file called “solution.sql”. You will store your responses to the exercise questions here. NOTE: This is merely a text file with a .sql extension.
 
 # Exercise
@@ -52,12 +52,12 @@ SELECT * FROM syntax_practice;
 ```
 
 # Tasks
-1. Get all users from Chicago.
-2. Get all users with usernames that contain the letter a.
-3. The bank is giving a new customer bonus! Update all records with an account balance of 0.00 and a transactions_attempted of 0. Give them a new account balance of 10.00.
-4. Select all users that have attempted 9 or more transactions.
-5. Get the username and account balance of the 3 users with the highest balances, sort highest to lowest balance. NOTE: Research LIMIT
-6. Get the username and account balance of the 3 users with the lowest balances, sort lowest to highest balance.
-7. Get all users with account balances that are more than $100.
-8. Add a new record.
-9. The bank is losing money in Miami and Phoenix and needs to unload low transaction customers: Delete users that reside in miami OR phoenix and have completed fewer than 5 transactions.
+* [x] Get all users from Chicago.
+* [x] Get all users with usernames that contain the letter a.
+* [x] The bank is giving a new customer bonus! Update all records with an account balance of 0.00 and a transactions_attempted of 0. Give them a new account balance of 10.00.
+* [x] Select all users that have attempted 9 or more transactions.
+* [x] Get the username and account balance of the 3 users with the highest balances, sort highest to lowest balance. NOTE: Research LIMIT
+* [x] Get the username and account balance of the 3 users with the lowest balances, sort lowest to highest balance.
+* [x] Get all users with account balances that are more than $100.
+* [x] Add a new record.
+* [x] The bank is losing money in Miami and Phoenix and needs to unload low transaction customers: Delete users that reside in miami OR phoenix and have completed fewer than 5 transactions.
